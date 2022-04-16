@@ -1,14 +1,41 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Bao",
+      "last_name": "Nguyen",
+      "email": "bao@gmail.com",
+      "age": 12,
+      "phone_number": 123456789,
+      "address": "Quang Nam",
+      "gender": "male",
+      "password": 135616,
+      "avatar": "https://res.cloudinary.com/dn1b78bjj/image/upload/v1650012178/ProfileProject/male_lnnezr.png"
+    },
+    {
+      "id": 2,
+      "first_name": "Hoang",
+      "last_name": "Nguyen",
+      "email": "hoang@gmail.com",
+      "age": 12,
+      "phone_number": 123456789,
+      "address": "DaNang",
+      "gender": "male",
+      "password": 135616,
+      "avatar": "https://res.cloudinary.com/dn1b78bjj/image/upload/v1650012178/ProfileProject/male_lnnezr.png"
+    },
+    {
+      "id": 3,
+      "first_name": "Nhi",
+      "last_name": "Nguyen",
+      "email": "nhi@gmail.com",
+      "age": 12,
+      "phone_number": 123456789,
+      "address": "DaNang",
+      "gender": "female",
+      "password": 135616,
+      "avatar": "https://res.cloudinary.com/dn1b78bjj/image/upload/v1650012124/ProfileProject/female_ioyhza.jpg"
+    }
+  ]
 }
+
