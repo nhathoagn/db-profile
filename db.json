@@ -10,7 +10,8 @@
       "address": "Quang Nam",
       "gender": "male",
       "password": 135616,
-      "avatar": "https://res.cloudinary.com/dn1b78bjj/image/upload/v1650012178/ProfileProject/male_lnnezr.png"
+      "avatar": "https://res.cloudinary.com/dn1b78bjj/image/upload/v1650012178/ProfileProject/male_lnnezr.png",
+      "login": false
     },
     {
       "id": 2,
@@ -22,7 +23,8 @@
       "address": "DaNang",
       "gender": "male",
       "password": 135616,
-      "avatar": "https://res.cloudinary.com/dn1b78bjj/image/upload/v1650012178/ProfileProject/male_lnnezr.png"
+      "avatar": "https://res.cloudinary.com/dn1b78bjj/image/upload/v1650012178/ProfileProject/male_lnnezr.png",
+      "login": false
     },
     {
       "id": 3,
@@ -34,7 +36,8 @@
       "address": "DaNang",
       "gender": "female",
       "password": 135616,
-      "avatar": "https://res.cloudinary.com/dn1b78bjj/image/upload/v1650012124/ProfileProject/female_ioyhza.jpg"
+      "avatar": "https://res.cloudinary.com/dn1b78bjj/image/upload/v1650012124/ProfileProject/female_ioyhza.jpg",
+      "login": false
     }
   ]
 }
